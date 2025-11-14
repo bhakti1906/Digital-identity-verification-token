@@ -1,5 +1,5 @@
-Digital identity verification token
-Project Description
+**Digital identity verification token  **                  
+   Project Description
 A decentralized identity verification system built on Stellar blockchain using Soroban smart contracts. This project enables the issuance, verification, and management of digital identity credentials, allowing for secure and reusable KYC verification across multiple platforms.
 Key Benefits:
 
@@ -113,6 +113,7 @@ This repository uses the recommended structure for a Soroban project:
 
 - Frontend libraries can be added to the top-level directory as well. If you initialized this project with a frontend template via `--frontend-template` you will have those files already included.
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/871553c6-a66f-4dac-af7b-2c663c938a97" />
+
 
 
 
